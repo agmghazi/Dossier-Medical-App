@@ -1,0 +1,311 @@
+E:\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe.config
+E:\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe
+E:\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.pdb
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csprojResolveAssemblyReference.cache
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Properties.Resources.resources
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csproj.GenerateResource.Cache
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.exe
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.pdb
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.LOGIN.resources
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MENU.resources
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MALADE.resources
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.DOSSIER.resources
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANTECEDENT.resources
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.consultation.resources
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MEDECIN.resources
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.RENDEZ_VOUS.resources
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.radio.resources
+E:\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANALYSE.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe.config
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.exe
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.pdb
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.pdb
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csprojResolveAssemblyReference.cache
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANALYSE.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANTECEDENT.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.consultation.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.DIAGNOSTIC.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.DOSSIER.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ENDOSCOPIE.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EVACUATION.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.LOGIN.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MALADE.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MEDECIN.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MENU.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Properties.Resources.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.radio.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.RENDEZ_VOUS.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.TRAITEMENT.resources
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csproj.GenerateResource.Cache
+F:\Developering\MEDICAL_AC\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EdMalade.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe.config
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.exe
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csprojResolveAssemblyReference.cache
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANALYSE.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANTECEDENT.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.consultation.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.DIAGNOSTIC.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EdMalade.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ENDOSCOPIE.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EVACUATION.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.LOGIN.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MEDECIN.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MENU.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Properties.Resources.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.radio.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.RENDEZ_VOUS.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.TRAITEMENT.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csproj.GenerateResource.Cache
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.pdb
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.pdb
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Backup.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Restory.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.REPORT_rendez_vous.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.V_REPORT_rendez_vous.resources
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\RdlCompile.cache
+F:\Developering\MEDICAL_AC\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\RdlCompile.compiled
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe.config
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.exe
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.pdb
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csprojResolveAssemblyReference.cache
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANALYSE.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANTECEDENT.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.bilan.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.consultation.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.DIAGNOSTIC.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EdMalade.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ENDOSCOPIE.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EVACUATION.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.examen.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.LOGIN.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MEDECIN.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MENU.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Properties.Resources.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.radio.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Backup.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.RENDEZ_VOUS.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.REPORT_rendez_vous.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Restory.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.TRAITEMENT.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.V_REPORT_rendez_vous.resources
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csproj.GenerateResource.Cache
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.pdb
+D:\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EDMALADE_ADD.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe.config
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.exe
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.pdb
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csprojResolveAssemblyReference.cache
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANALYSE.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANTECEDENT.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.bilan.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.consultation.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.DIAGNOSTIC.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EdMalade.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EDMALADE_ADD.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ENDOSCOPIE.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EVACUATION.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.examen.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.LOGIN.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MEDECIN.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MENU.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Properties.Resources.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.radio.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Backup.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.RENDEZ_VOUS.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.REPORT_rendez_vous.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Restory.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.TRAITEMENT.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.V_REPORT_rendez_vous.resources
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csproj.GenerateResource.Cache
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\RdlCompile.cache
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\RdlCompile.compiled
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.pdb
+F:\Developering\V.NEW\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.USERS.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe.config
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.exe
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.pdb
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.pdb
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csprojResolveAssemblyReference.cache
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANALYSE.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANTECEDENT.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.bilan.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.consultation.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.DIAGNOSTIC.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EdMalade.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EDMALADE_ADD.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ENDOSCOPIE.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EVACUATION.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.examen.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.LOGIN.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MEDECIN.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MENU.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Properties.Resources.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.radio.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Backup.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.RENDEZ_VOUS.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.REPORT_rendez_vous.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Restory.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.TRAITEMENT.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.USERS.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.V_REPORT_rendez_vous.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csproj.GenerateResource.Cache
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Edit_users.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.categorie__examen.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Analysse.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EXAMEN_GENERALE.resources
+D:\LAST UPDATE\new\new\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.imagerie.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe.config
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.exe
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.pdb
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.pdb
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csprojResolveAssemblyReference.cache
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANALYSE.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Analysse.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANTECEDENT.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.bilan.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.categorie__examen.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.consultation.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.DIAGNOSTIC.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Edit_users.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EdMalade.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EDMALADE_ADD.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ENDOSCOPIE.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EVACUATION.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EXAMEN_GENERALE.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.examen.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.imagerie.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.LOGIN.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MEDECIN.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MENU.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Properties.Resources.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.radio.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Backup.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.RENDEZ_VOUS.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Restory.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.TRAITEMENT.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.USERS.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csproj.GenerateResource.Cache
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\RdlCompile.cache
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\RdlCompile.compiled
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.USER_MENU.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ALL_RE_analyse.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.V_REPORT_1.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ALL_R_medicament.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.SELECT_R_analysee.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.SELECT_R_medicamentt.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ALL_R_RADIO.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.SELECT_R_RADIO.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.REPORT_evacuation.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ALL_R_evacuation.resources
+F:\Developering\RANIA\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.SELECT_R_evacuation.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe.config
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.exe
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.pdb
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.pdb
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csprojResolveAssemblyReference.cache
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ALL_RE_analyse.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ALL_R_evacuation.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ALL_R_medicament.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ALL_R_RADIO.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Analysse.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANTECEDENT.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.bilan.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.categorie__examen.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.consultation.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.DIAGNOSTIC.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Edit_users.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EdMalade.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EDMALADE_ADD.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ENDOSCOPIE.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EVACUATION.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EXAMEN_GENERALE.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.imagerie.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.LOGIN.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MEDECIN.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MENU.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Properties.Resources.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Backup.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.RENDEZ_VOUS.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.REPORT_evacuation.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Restory.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.SELECT_R_analysee.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.SELECT_R_evacuation.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.SELECT_R_medicamentt.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.SELECT_R_RADIO.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.USERS.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.USER_MENU.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.V_REPORT_1.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csproj.GenerateResource.Cache
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\RdlCompile.cache
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\RdlCompile.compiled
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.exe.licenses
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.All_report_EXAMEN_GENERALE.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Select_Report_EXAMEN_GENERALE.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.All_report_EDmalade.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Select_Report_Edmalade.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.DOSSIER.resources
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe.manifest
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\bin\Debug\dossier_medical.application
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.exe.manifest
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.application
+D:\MEMOIRE FIN ETUD\dossier-medical\dossier-medical\dossier medical\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EXMENE.resources
+E:\7777\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe.config
+E:\7777\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe.manifest
+E:\7777\dossier_medical\dossier_medical\bin\Debug\dossier_medical.application
+E:\7777\dossier_medical\dossier_medical\bin\Debug\dossier_medical.exe
+E:\7777\dossier_medical\dossier_medical\bin\Debug\dossier_medical.pdb
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csprojResolveAssemblyReference.cache
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.All_report_EDmalade.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.All_report_EXAMEN_GENERALE.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ALL_RE_analyse.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ALL_R_evacuation.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ALL_R_medicament.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ALL_R_RADIO.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Analysse.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ANTECEDENT.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.bilan.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.categorie__examen.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.consultation.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.DIAGNOSTIC.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.DOSSIER.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Edit_users.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EdMalade.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EDMALADE_ADD.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.ENDOSCOPIE.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EVACUATION.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EXAMEN_GENERALE.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.EXMENE.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.imagerie.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.LOGIN.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MEDECIN.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.MENU.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Properties.Resources.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Backup.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.RENDEZ_VOUS.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.REPORT_evacuation.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Restory.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Select_Report_Edmalade.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.Select_Report_EXAMEN_GENERALE.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.SELECT_R_analysee.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.SELECT_R_evacuation.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.SELECT_R_medicamentt.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.SELECT_R_RADIO.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.USERS.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.USER_MENU.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.V_REPORT_1.resources
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.csproj.GenerateResource.Cache
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.exe.licenses
+E:\7777\dossier_medical\dossier_medical\obj\Debug\RdlCompile.cache
+E:\7777\dossier_medical\dossier_medical\obj\Debug\RdlCompile.compiled
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.exe.manifest
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.application
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.exe
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.pdb
+E:\7777\dossier_medical\dossier_medical\obj\Debug\dossier_medical.analysesss.resources

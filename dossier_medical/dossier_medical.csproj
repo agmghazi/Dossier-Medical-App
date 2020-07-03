@@ -1,0 +1,988 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4A5A0554-6789-49DC-905F-AF4137FF277F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>dossier_medical</RootNamespace>
+    <AssemblyName>dossier_medical</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\BILAL\Desktop\ioioio\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>96DE7F51508B92B220212778376EE9B62935F1D0</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>dossier_medical_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v14.1.Core, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="All_report_EDmalade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="All_report_EDmalade.Designer.cs">
+      <DependentUpon>All_report_EDmalade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="All_report_EXAMEN_GENERALE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="All_report_EXAMEN_GENERALE.Designer.cs">
+      <DependentUpon>All_report_EXAMEN_GENERALE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALL_RE_analyse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALL_RE_analyse.Designer.cs">
+      <DependentUpon>ALL_RE_analyse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALL_R_evacuation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALL_R_evacuation.Designer.cs">
+      <DependentUpon>ALL_R_evacuation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALL_R_medicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALL_R_medicament.Designer.cs">
+      <DependentUpon>ALL_R_medicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALL_R_RADIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALL_R_RADIO.Designer.cs">
+      <DependentUpon>ALL_R_RADIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="analysesss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="analysesss.Designer.cs">
+      <DependentUpon>analysesss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Analysse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Analysse.Designer.cs" />
+    <Compile Include="ANTECEDENT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ANTECEDENT.Designer.cs">
+      <DependentUpon>ANTECEDENT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bilan .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bilan .Designer.cs">
+      <DependentUpon>bilan .cs</DependentUpon>
+    </Compile>
+    <Compile Include="categorie  examen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="categorie  examen.Designer.cs">
+      <DependentUpon>categorie  examen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consultation .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultation .Designer.cs">
+      <DependentUpon>consultation .cs</DependentUpon>
+    </Compile>
+    <Compile Include="DIAGNOSTIC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIAGNOSTIC.Designer.cs">
+      <DependentUpon>DIAGNOSTIC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DOSSIER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOSSIER.Designer.cs">
+      <DependentUpon>DOSSIER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dossier_medical_alectroniqueDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dossier_medical_alectroniqueDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dossier_medical_alectroniqueDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dossier_medical_alectroniqueDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dossier_medical_alectroniqueDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dossier_medical_alectroniqueDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dossier_medical_alectroniqueDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dossier_medical_alectroniqueDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dossier_medical_alectroniqueDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dossier_medical_alectroniqueDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dossier_medical_alectroniqueDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dossier_medical_alectroniqueDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dossier_medical_alectroniqueDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dossier_medical_alectroniqueDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dossier_medical_alectroniqueDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dossier_medical_alectroniqueDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_users.Designer.cs">
+      <DependentUpon>Edit_users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdMalade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdMalade.Designer.cs">
+      <DependentUpon>EdMalade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EDMALADE_ADD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDMALADE_ADD.Designer.cs">
+      <DependentUpon>EDMALADE_ADD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ENDOSCOPIE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ENDOSCOPIE.Designer.cs">
+      <DependentUpon>ENDOSCOPIE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EVACUATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EVACUATION.Designer.cs">
+      <DependentUpon>EVACUATION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EXAMEN GENERALE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EXAMEN GENERALE.Designer.cs">
+      <DependentUpon>EXAMEN GENERALE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EXMENE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EXMENE.Designer.cs">
+      <DependentUpon>EXMENE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="imagerie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="imagerie.Designer.cs">
+      <DependentUpon>imagerie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIN.Designer.cs">
+      <DependentUpon>LogIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MEDECIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MEDECIN.Designer.cs">
+      <DependentUpon>MEDECIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENU.Designer.cs">
+      <DependentUpon>MENU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recovery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recovery.Designer.cs">
+      <DependentUpon>Recovery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RENDEZ_VOUS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RENDEZ_VOUS.Designer.cs">
+      <DependentUpon>RENDEZ_VOUS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORT_evacuation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORT_evacuation.Designer.cs">
+      <DependentUpon>REPORT_evacuation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Restory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restory.Designer.cs">
+      <DependentUpon>Restory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Select_Report_Edmalade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_Report_Edmalade.Designer.cs">
+      <DependentUpon>Select_Report_Edmalade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Select_Report_EXAMEN_GENERALE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_Report_EXAMEN_GENERALE.Designer.cs">
+      <DependentUpon>Select_Report_EXAMEN_GENERALE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_R_analysee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELECT_R_analysee.Designer.cs">
+      <DependentUpon>SELECT_R_analysee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_R_evacuation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELECT_R_evacuation.Designer.cs">
+      <DependentUpon>SELECT_R_evacuation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_R_medicamentt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELECT_R_medicamentt.Designer.cs">
+      <DependentUpon>SELECT_R_medicamentt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_R_RADIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELECT_R_RADIO.Designer.cs">
+      <DependentUpon>SELECT_R_RADIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USERS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USERS.Designer.cs">
+      <DependentUpon>USERS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER_MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USER_MENU.Designer.cs">
+      <DependentUpon>USER_MENU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="V_REPORT_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="V_REPORT_1.Designer.cs">
+      <DependentUpon>V_REPORT_1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="All_report_EDmalade.resx">
+      <DependentUpon>All_report_EDmalade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="All_report_EXAMEN_GENERALE.resx">
+      <DependentUpon>All_report_EXAMEN_GENERALE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALL_RE_analyse.resx">
+      <DependentUpon>ALL_RE_analyse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALL_R_evacuation.resx">
+      <DependentUpon>ALL_R_evacuation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALL_R_medicament.resx">
+      <DependentUpon>ALL_R_medicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALL_R_RADIO.resx">
+      <DependentUpon>ALL_R_RADIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="analysesss.resx">
+      <DependentUpon>analysesss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Analysse.resx" />
+    <EmbeddedResource Include="ANTECEDENT.resx">
+      <DependentUpon>ANTECEDENT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bilan .resx">
+      <DependentUpon>bilan .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="categorie  examen.resx">
+      <DependentUpon>categorie  examen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consultation .resx">
+      <DependentUpon>consultation .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIAGNOSTIC.resx">
+      <DependentUpon>DIAGNOSTIC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOSSIER.resx">
+      <DependentUpon>DOSSIER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_users.resx">
+      <DependentUpon>Edit_users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdMalade.resx">
+      <DependentUpon>EdMalade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDMALADE_ADD.resx">
+      <DependentUpon>EDMALADE_ADD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ENDOSCOPIE.resx">
+      <DependentUpon>ENDOSCOPIE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EVACUATION.resx">
+      <DependentUpon>EVACUATION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EXAMEN GENERALE.resx">
+      <DependentUpon>EXAMEN GENERALE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EXMENE.resx">
+      <DependentUpon>EXMENE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="imagerie.resx">
+      <DependentUpon>imagerie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIN.resx">
+      <DependentUpon>LogIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MEDECIN.resx">
+      <DependentUpon>MEDECIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENU.resx">
+      <DependentUpon>MENU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Recovery.resx">
+      <DependentUpon>Recovery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RENDEZ_VOUS.resx">
+      <DependentUpon>RENDEZ_VOUS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="Report6.rdlc" />
+    <EmbeddedResource Include="REPORT_evacuation.resx">
+      <DependentUpon>REPORT_evacuation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restory.resx">
+      <DependentUpon>Restory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_Report_Edmalade.resx">
+      <DependentUpon>Select_Report_Edmalade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_Report_EXAMEN_GENERALE.resx">
+      <DependentUpon>Select_Report_EXAMEN_GENERALE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELECT_R_analysee.resx">
+      <DependentUpon>SELECT_R_analysee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELECT_R_evacuation.resx">
+      <DependentUpon>SELECT_R_evacuation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELECT_R_medicamentt.resx">
+      <DependentUpon>SELECT_R_medicamentt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELECT_R_RADIO.resx">
+      <DependentUpon>SELECT_R_RADIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USERS.resx">
+      <DependentUpon>USERS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER_MENU.resx">
+      <DependentUpon>USER_MENU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V_REPORT_1.resx">
+      <DependentUpon>V_REPORT_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="dossier_medical_alectroniqueDataSet.xsc">
+      <DependentUpon>dossier_medical_alectroniqueDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dossier_medical_alectroniqueDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet.xss">
+      <DependentUpon>dossier_medical_alectroniqueDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet1.xsc">
+      <DependentUpon>dossier_medical_alectroniqueDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dossier_medical_alectroniqueDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet1.xss">
+      <DependentUpon>dossier_medical_alectroniqueDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet2.xsc">
+      <DependentUpon>dossier_medical_alectroniqueDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dossier_medical_alectroniqueDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet2.xss">
+      <DependentUpon>dossier_medical_alectroniqueDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet3.xsc">
+      <DependentUpon>dossier_medical_alectroniqueDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dossier_medical_alectroniqueDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet3.xss">
+      <DependentUpon>dossier_medical_alectroniqueDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet4.xsc">
+      <DependentUpon>dossier_medical_alectroniqueDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dossier_medical_alectroniqueDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet4.xss">
+      <DependentUpon>dossier_medical_alectroniqueDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet5.xsc">
+      <DependentUpon>dossier_medical_alectroniqueDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dossier_medical_alectroniqueDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet5.xss">
+      <DependentUpon>dossier_medical_alectroniqueDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet6.xsc">
+      <DependentUpon>dossier_medical_alectroniqueDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dossier_medical_alectroniqueDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet6.xss">
+      <DependentUpon>dossier_medical_alectroniqueDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet7.xsc">
+      <DependentUpon>dossier_medical_alectroniqueDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dossier_medical_alectroniqueDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dossier_medical_alectroniqueDataSet7.xss">
+      <DependentUpon>dossier_medical_alectroniqueDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="dossier_medical_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoginRed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ah.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RA.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\40632676-femme-medecin-montrer-comment-utiliser-le-dossier-medical-electronique-tandis-qu-39-un-autre-de-veri.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ran.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ob_d944fe_medecin-generaliste-14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brick_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\74569533-38571514.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\74569533-385715141.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backup-for-servers.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sql-recovery.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comprendre-son-analyse-d-acide-urique.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14-Delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer-iconaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hospitalisation IS404-008.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-save-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-building-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-check-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_osx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paste_plain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hourglass_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_side_contract.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_side_expand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_side_contract1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drive_disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shape_rotate_anticlockwise.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shape_handles.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vcard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_side_expand1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transmit_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\server_database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report_magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_save1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_edit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_suit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifier1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_put.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_rotate_clockwise.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13296079_1052305541502251_1042773209_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_1053021808097291.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Groups-Meeting-Light-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-Group-iconنن.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_1053021684763970.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_1053021771430628.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ttesc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sss.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iuikk.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ééé.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dffg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\g.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tttttt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ee1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gfdddw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alarm-Tick-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-list-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-icon_159314435.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Files-New-File-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uuu.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uuu1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dddf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\n1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jkllll.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ahyeuizdn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kjlklgtkgf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\^mpl.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\62.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\n2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\n3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tttttt1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-save-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sss1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hhgu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\qzdrcftgvbhnj,k.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ééé.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ttt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cfbhjk_l!.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Next-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\63.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\81.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\82.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\83.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\84.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\n4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tttttt2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DB\dossier medical alectronique.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DB\dossier medical alectronique_log.ldf">
+      <DependentUpon>dossier medical alectronique.mdf</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
